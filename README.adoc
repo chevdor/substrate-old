@@ -1,0 +1,7 @@
+= Substrate
+:toc:
+
+== Testing
+
+	cargo test
+

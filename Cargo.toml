@@ -1,6 +1,6 @@
 [lib]
 name = "substrate"
-path = "substrate/src/lib.rs"
+path = "src/lib.rs"
 
 [package]
 name = "substrate"

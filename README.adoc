@@ -9,4 +9,4 @@ include::doc/documentation.adoc[]
 
 include::doc/testing.adoc[]
 
-include::LICENSE.adoc[]
+include::doc/license.adoc[]

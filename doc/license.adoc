@@ -1,0 +1,6 @@
+
+== Legal Stuff
+
+----
+include::../LICENSE[]
+----

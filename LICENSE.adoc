@@ -1,6 +1,0 @@
-
-== Legal Stuff
-
-DANGER: TO BE DEFINED
-
-See https://github.com/paritytech/polkadot/issues/304

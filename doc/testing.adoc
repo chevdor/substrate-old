@@ -1,4 +1,4 @@
 
 == Testing
 
-	cargo test
+	cargo test --all

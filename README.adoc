@@ -1,6 +1,8 @@
 = Substrate
 :toc:
 
+image:https://travis-ci.org/chevdor/substrate.svg?branch=master["Build Status", link="https://travis-ci.org/chevdor/substrate"]
+
 == Testing
 
 	cargo test

@@ -1,0 +1,7 @@
+
+== Intro
+
+Substrate is a technology stack that you can use to build blockchains and will be the underlying technology for Polkadot. It’s put out there to increase the ability for people to experiment with blockchains and test new ideas for sharding, encryption, and governance so that you can very quickly get them up and running.
+
+Native speed, no forking
+It's architected on WebAssembly which provides high-speed native-compiled code, making it well-suited for high-performance tasks. Substrate comes with an optimization that requires no forks to update chains so that depending on the governance model, upgrades can be established on-chain without segmenting/cutting out clients. Block headers are extremely lightweight at 96 bytes per header, helping enable light clients to run fast on modest hardware.

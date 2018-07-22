@@ -1,0 +1,4 @@
+
+== Documentation
+
+	cargo doc --no-deps open
